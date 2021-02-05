@@ -1,0 +1,10 @@
+.edit-description, .update-task, .cancel-edit {
+    display: none;
+}
+.held-task {
+    opacity: .5;
+}
+.task {
+    cursor: grab;
+    background: white;
+}
